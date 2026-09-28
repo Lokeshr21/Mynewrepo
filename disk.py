@@ -16,3 +16,12 @@ elif operation == "/":
 else:
     print("Invalid operation selected.")
 
+
+New code..
+    # Ask the user for their name
+name = input("What is your name? ")
+
+# Greet the user using an f-string
+print(f"Hello, {name}! Welcome to Python.")
+
+
