@@ -21,6 +21,9 @@ New code..
     # Ask the user for their name
 name = input("What is your name? ")
 
+
+multiple projects will done 
+
 # Greet the user using an f-string
 print(f"Hello, {name}! Welcome to Python.")
 
